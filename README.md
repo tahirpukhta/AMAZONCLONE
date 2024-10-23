@@ -1,0 +1,1 @@
+This is a front-end clone of the Amazon website built using HTML, CSS. It mimics the look and feel of the Amazon homepage, including features like the navigation bar, product sections, and footer. This project demonstrates my understanding of basic front-end web development and user interface (UI) design.
